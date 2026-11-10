@@ -1,31 +1,8 @@
-
-<div align="center">
-
-<img src="./assets/banner.svg" alt="FAEZZZPLOIT Cyberpunk Terminal Banner" width="100%" />
-
-### Cybersecurity Student · CTF Player · Security Enthusiast
-
-`root@alice1nrootland:~$ ./learn_build_break_repeat.sh`
-
-<br>
-
-<a href="https://github.com/Alice1nRootland?tab=followers">
-  <img src="https://img.shields.io/github/followers/Alice1nRootland?style=flat-square&label=Followers&color=00bcd4&labelColor=0b1520" alt="GitHub Followers" />
-</a>
-<a href="https://www.linkedin.com/in/faez-nazari-32543228b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-00bcd4?style=flat-square&logo=linkedin&logoColor=white&labelColor=0b1520" alt="LinkedIn" />
-</a>
-<a href="https://medium.com/@cyberfaezzz">
-  <img src="https://img.shields.io/badge/Medium-Writeups-00bcd4?style=flat-square&logo=medium&logoColor=white&labelColor=0b1520" alt="Medium" />
-</a>
-
-</div>
-
----
-
-### `> whoami`
-
-```text
+<div align="center"><img src="./assets/banner.svg" alt="FAEZZZPLOIT animated cyberpunk terminal banner" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=19&amp;duration=2800&amp;pause=900&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=48&amp;lines=Cybersecurity+Student+%7C+CTF+Player;Vice+President+%40+CyberOps+UTeM;Boot2Root+%7C+Security+Assessment;Build.+Break.+Learn.+Repeat." alt="Animated cybersecurity introduction" /><p><code>root@alice1nrootland:~$ ./learn_build_break_repeat.sh</code></p><a href="https://github.com/Alice1nRootland?tab=followers"><img src="https://img.shields.io/github/followers/Alice1nRootland?style=flat-square&amp;label=Followers&amp;color=00bcd4&amp;labelColor=0b1520" alt="Followers" /></a>
+<a href="https://www.linkedin.com/in/faez-nazari-32543228b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00bcd4?style=flat-square&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0b1520" alt="LinkedIn" /></a>
+<a href="https://medium.com/@cyberfaezzz"><img src="https://img.shields.io/badge/Medium-Writeups-00bcd4?style=flat-square&amp;logo=medium&amp;labelColor=0b1520" alt="Medium" /></a>
+<a href="https://www.linkedin.com/company/cyberops-utem/"><img src="https://img.shields.io/badge/CyberOps_UTeM-Community-00bcd4?style=flat-square&amp;labelColor=0b1520" alt="CyberOps UTeM" /></a>
+</div>> whoami
 ┌──(faez㉿rootland)-[~]
 └─$ cat profile.txt
 
@@ -33,152 +10,55 @@ Name        : Faez / Faezzzploit
 Location    : Malaysia
 University  : Universiti Teknikal Malaysia Melaka (UTeM)
 Community   : CyberOps UTeM
-Position    : Vice President
+Role        : Vice President
 Focus       : Offensive Security | CTF | Threat Intelligence
 Status      : Always Learning
-```
+Cybersecurity student exploring how systems work, how vulnerabilities arise, and how to secure them. I enjoy CTF challenges, Boot2Root labs, vulnerability assessment, and building small security tools in authorized environments.
+Break things in labs. Understand how they work. Learn how to defend them.
 
-Cybersecurity student passionate about exploring how systems work, how vulnerabilities arise, and how to secure them.
+> cat current_operations.txt
+Mission	Current focus
+🎯 CTF / Boot2Root	Enumeration, privilege escalation, technical writeups
+🛡️ Security Assessment	Nmap, Nessus, CVE research, reporting
+🌐 Web Security	Application testing and security fundamentals
+🐍 Build & Automate	Python, Bash, security experiments
+🤝 CyberOps UTeM	Community activities and student collaboration
 
-I enjoy solving **CTF challenges**, working through **Boot2Root machines**, experimenting with security tools, and documenting what I learn along the way.
 
-> "Break things in labs. Understand how they work. Learn how to defend them."
-
----
-
-### `> cat current_operations.txt`
-
-| Area | What I'm Exploring |
-|:---|:---|
-| **CTF & Boot2Root** | Enumeration, exploitation techniques, privilege escalation, and writeups |
-| **Web Security** | Web vulnerabilities, application testing, and security fundamentals |
-| **Vulnerability Assessment** | Nmap, Nessus, vulnerability identification, and reporting |
-| **Scripting & Automation** | Python, Bash, and security-related utilities |
-| **Cybersecurity Community** | Organizing and supporting activities with CyberOps UTeM |
-
----
-
-### `> ls -la ~/projects`
-
+> ls -la ~/projects
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<h3>Hacking Lab</h3>
-
-<p>Personal cybersecurity workspace featuring:</p>
-
-<ul>
-<li>CTF and Boot2Root writeups</li>
-<li>OSINT experiments</li>
-<li>Security tools and scripts</li>
-<li>Hands-on learning resources</li>
-</ul>
-
-<a href="https://github.com/Alice1nRootland/Hacking_Lab">
-  <img src="https://img.shields.io/badge/EXPLORE-LAB-00bcd4?style=flat-square&labelColor=0b1520" alt="Explore Hacking Lab" />
-</a>
-
+<h3>⌁ Hacking Lab</h3>
+<p>CTF &amp; Boot2Root writeups, OSINT experiments, security scripts, and learning resources.</p>
+<a href="https://github.com/Alice1nRootland/Hacking_Lab"><img src="https://img.shields.io/badge/EXPLORE-HACKING_LAB-00bcd4?style=for-the-badge&amp;labelColor=0b1520" alt="Explore Hacking Lab" /></a>
 </td>
 <td width="50%" valign="top">
-
-<h3>Portfolio</h3>
-
-<p>A collection of technical and creative work:</p>
-
-<ul>
-<li>Academic projects</li>
-<li>Programming experiments</li>
-<li>Cybersecurity development</li>
-<li>Personal learning projects</li>
-</ul>
-
-<a href="https://github.com/Alice1nRootland/Portfolio">
-  <img src="https://img.shields.io/badge/VIEW-PROJECTS-00bcd4?style=flat-square&labelColor=0b1520" alt="View Portfolio" />
-</a>
-
+<h3>⌁ Portfolio</h3>
+<p>Academic projects, development experiments, cybersecurity work, and creative builds.</p>
+<a href="https://github.com/Alice1nRootland/Portfolio"><img src="https://img.shields.io/badge/VIEW-PORTFOLIO-00bcd4?style=for-the-badge&amp;labelColor=0b1520" alt="View Portfolio" /></a>
 </td>
 </tr>
-</table>
-
-> Some projects and writeups remain private until they are ready for public release.
-
----
-
-### `> ./toolbox --list`
-
+</table><sub>Some projects and writeups stay private until they are ready for public release.</sub>
+> ./toolbox --list
 <div align="center">
+<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,cpp&amp;theme=dark" alt="Python, Bash, Linux, Git, GitHub, VS Code and C++" />
+</div>Security toolkit: Kali Linux · Nmap · Wireshark · Burp Suite · Nessus · Metasploit
+> cat community.log
+CyberOps UTeM — Vice President
 
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,vscode,cpp&theme=dark" alt="Programming and development tools" />
+Supporting student cybersecurity activities, technical learning, events, and collaboration.
+> ./contributions --animate
+<div align="center"><!-- This animation is generated by the included GitHub Actions workflow. -->
+<img src="https://raw.githubusercontent.com/Alice1nRootland/Alice1nRootland/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake (available after first successful workflow run)" width="100%" /></div><details>
+<summary><b><code>&gt; cat learning_journey.md</code> — expand</b></summary>CTF: Linux/Windows enumeration, web challenges, privilege escalation, writeups.
 
-</div>
+Assessment: Service discovery, Nessus scans, CVE analysis, remediation reporting.
 
-<br>
+Development: Python scripts, Bash automation, hands-on security experiments.
 
-**Security Toolkit**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0b1520?style=flat-square&logo=kalilinux&logoColor=00f0ff)
-![Nmap](https://img.shields.io/badge/Nmap-0b1520?style=flat-square&logoColor=00f0ff)
-![Wireshark](https://img.shields.io/badge/Wireshark-0b1520?style=flat-square&logo=wireshark&logoColor=00f0ff)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0b1520?style=flat-square&logo=burpsuite&logoColor=00f0ff)
-![Nessus](https://img.shields.io/badge/Nessus-0b1520?style=flat-square&logoColor=00f0ff)
-![Metasploit](https://img.shields.io/badge/Metasploit-0b1520?style=flat-square&logoColor=00f0ff)
-
----
-
-### `> cat community.log`
-
-**CyberOps UTeM — Vice President**
-
-Contributing to the cybersecurity community through student activities, technical learning, event planning, and collaboration.
-
-[![CyberOps UTeM](https://img.shields.io/badge/CyberOps_UTeM-Community-00bcd4?style=flat-square&labelColor=0b1520)](https://www.linkedin.com/company/cyberops-utem/)
-
----
-
-### `> cat learning_journey.md`
-
-<details>
-<summary><b>Click to expand my cybersecurity journey</b></summary>
-
-<br>
-
-My learning focuses on practical, hands-on cybersecurity.
-
-**Capture The Flag**
-
-- Linux and Windows enumeration
-- Web exploitation challenges
-- Privilege escalation
-- Technical writeups
-
-**Security Assessment**
-
-- Network scanning and service discovery
-- Vulnerability scanning with Nessus
-- CVE identification and analysis
-- Security documentation and remediation
-
-**Development**
-
-- Python scripting
-- Bash automation
-- Security-related experiments
-
-I practice in authorized environments and intentionally vulnerable labs.
-
-</details>
-
----
-
-<div align="center">
-
-`[ SYSTEM STATUS: ALWAYS LEARNING ]`
-
-<sub>Build responsibly · Test with permission · Share what you learn.</sub>
-
-<br><br>
-
-`root@alice1nrootland:~$ exit`
-
+I practice only in intentionally vulnerable or otherwise authorized environments.
+</details><div align="center"><code>[ SYSTEM STATUS: ALWAYS LEARNING ]</code>
+<p><sub>Build responsibly · Test with permission · Share what you learn.</sub></p>
+<code>root@alice1nrootland:~$ exit</code>
 </div>
