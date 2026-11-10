@@ -1,3 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Fa ezzzploit cyber security profile banner">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#050A11"/><stop offset="1" stop-color="#0B1D2A"/></linearGradient><pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#153746" stroke-width=".7"/></pattern><linearGradient id="line"><stop stop-color="#00F0FF"/><stop offset="1" stop-color="#126F9E"/></linearGradient></defs>
-<rect width="1200" height="300" rx="16" fill="url(#bg)"/><rect width="1200" height="300" fill="url(#grid)" opacity=".48"/><path d="M0 8H1200M0 292H1200" stroke="#00F0FF" opacity=".5"/><path d="M32 54H170M1030 246H1168" stroke="url(#line)" stroke-width="3"/><circle cx="1020" cy="145" r="93" stroke="#00F0FF" opacity=".2" fill="none"/><circle cx="1020" cy="145" r="68" stroke="#00F0FF" opacity=".5" fill="none"/><path d="M985 130l-20 15 20 15m70-30 20 15-20 15m-23-45-22 60" stroke="#00F0FF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/><text x="65" y="72" fill="#00F0FF" font-family="monospace" font-size="18">root@alice1nrootland:~$ whoami</text><text x="65" y="160" fill="#F1FAFF" font-family="Arial,Helvetica,sans-serif" font-size="66" font-weight="bold" letter-spacing="3">FAEZZZPLOIT</text><text x="68" y="205" fill="#91B7C9" font-family="monospace" font-size="21">CYBERSECURITY  //  CTF  //  BUILD • BREAK • LEARN</text><text x="68" y="258" fill="#00F0FF" font-family="monospace" font-size="16">[ ACCESS GRANTED ]</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="FAEZZZPLOIT cyberpunk holographic terminal banner">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#060b14"/><stop offset="1" stop-color="#0a2030"/></linearGradient>
+ <linearGradient id="cyan" x2="1"><stop stop-color="#00f0ff"/><stop offset="1" stop-color="#537aff"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#0c3648" stroke-width="1" opacity=".55"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <clipPath id="clip"><rect width="1200" height="320" rx="16"/></clipPath>
+ </defs>
+ <g clip-path="url(#clip)">
+ <rect width="1200" height="320" fill="url(#bg)"/><rect width="1200" height="320" fill="url(#grid)"/>
+ <path d="M20 40V20H1180V40 M20 280V300H1180V280" stroke="#00f0ff" stroke-width="2" opacity=".7" fill="none"/>
+ <path d="M0 6H1200" stroke="url(#cyan)" stroke-width="4"/>
+ <g opacity=".45" stroke="#00f0ff" fill="none"><path d="M780 40L1100 40 1160 100 1160 245 1090 280 800 280"/><path d="M820 60L1080 60 1140 110 1140 235 1080 260 820 260"/><path d="M820 260L820 60" stroke-dasharray="5 10"/></g>
+ <g transform="translate(962 158)"><circle r="93" stroke="#00f0ff" stroke-width="2" fill="#071a28" opacity=".8"/><circle r="75" stroke="#00f0ff" stroke-width="1" fill="none" stroke-dasharray="8 12" opacity=".8"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="25s" repeatCount="indefinite"/></circle><circle r="53" stroke="#537aff" stroke-width="1.5" fill="none"/><path d="M-34 -14L-51 0 -34 14 M34 -14L51 0 34 14 M12 -30L-12 30" stroke="#00f0ff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none" filter="url(#glow)"/></g>
+ <text x="56" y="65" fill="#00f0ff" font-family="monospace" font-size="19">root@alice1nrootland:~$ whoami</text>
+ <text x="54" y="155" fill="#f0faff" font-family="Arial,Helvetica,sans-serif" font-size="70" font-weight="800" letter-spacing="3">FAEZZZPLOIT</text>
+ <rect x="596" y="113" width="11" height="48" fill="#00f0ff"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+ <text x="58" y="198" fill="#91b7c8" font-family="monospace" font-size="18" letter-spacing="2">CYBERSECURITY  //  CTF  //  BUILD · BREAK · LEARN</text>
+ <path d="M58 226H665" stroke="#17495b" stroke-width="2"/>
+ <text x="58" y="265" fill="#00f0ff" font-family="monospace" font-size="16">[ ACCESS GRANTED ]</text>
+ <text x="1120" y="295" fill="#5d96a9" text-anchor="end" font-family="monospace" font-size="12">SYS://ROOTLAND_V2</text>
+ <rect y="0" width="1200" height="2" fill="#00f0ff" opacity=".15"><animate attributeName="y" values="0;320" dur="9s" repeatCount="indefinite"/></rect>
+ </g>
+</svg>
