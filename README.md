@@ -10,13 +10,13 @@
 <br>
 
 <a href="https://github.com/Alice1nRootland?tab=followers">
-  <img src="https://img.shields.io/github/followers/Alice1nRootland?style=flat-square&label=Followers&color=00bcd4&labelColor=0b1520" />
+  <img src="https://img.shields.io/github/followers/Alice1nRootland?style=flat-square&label=Followers&color=00bcd4&labelColor=0b1520" alt="GitHub Followers" />
 </a>
 <a href="https://www.linkedin.com/in/faez-nazari-32543228b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-00bcd4?style=flat-square&logo=linkedin&logoColor=white&labelColor=0b1520" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00bcd4?style=flat-square&logo=linkedin&logoColor=white&labelColor=0b1520" alt="LinkedIn" />
 </a>
 <a href="https://medium.com/@cyberfaezzz">
-  <img src="https://img.shields.io/badge/Medium-Writeups-00bcd4?style=flat-square&logo=medium&logoColor=white&labelColor=0b1520" />
+  <img src="https://img.shields.io/badge/Medium-Writeups-00bcd4?style=flat-square&logo=medium&logoColor=white&labelColor=0b1520" alt="Medium" />
 </a>
 
 </div>
@@ -34,7 +34,7 @@ Location    : Malaysia
 University  : Universiti Teknikal Malaysia Melaka (UTeM)
 Community   : CyberOps UTeM
 Position    : Vice President
-Focus       : Offensive Security | CTF | Security Research
+Focus       : Offensive Security | CTF | Threat Intelligence
 Status      : Always Learning
 ```
 
@@ -64,33 +64,37 @@ I enjoy solving **CTF challenges**, working through **Boot2Root machines**, expe
 <tr>
 <td width="50%" valign="top">
 
-#### Hacking Lab
+<h3>Hacking Lab</h3>
 
-Personal cybersecurity workspace featuring:
+<p>Personal cybersecurity workspace featuring:</p>
 
-- CTF and Boot2Root writeups
-- OSINT experiments
-- Security tools and scripts
-- Hands-on learning resources
+<ul>
+<li>CTF and Boot2Root writeups</li>
+<li>OSINT experiments</li>
+<li>Security tools and scripts</li>
+<li>Hands-on learning resources</li>
+</ul>
 
-<a href="https://github.com/Alice1nRootland?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-LAB-00bcd4?style=flat-square&labelColor=0b1520" />
+<a href="https://github.com/Alice1nRootland/Hacking_Lab">
+  <img src="https://img.shields.io/badge/EXPLORE-LAB-00bcd4?style=flat-square&labelColor=0b1520" alt="Explore Hacking Lab" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-#### Portfolio
+<h3>Portfolio</h3>
 
-A collection of technical and creative work:
+<p>A collection of technical and creative work:</p>
 
-- Academic projects
-- Programming experiments
-- Cybersecurity development
-- Personal learning projects
+<ul>
+<li>Academic projects</li>
+<li>Programming experiments</li>
+<li>Cybersecurity development</li>
+<li>Personal learning projects</li>
+</ul>
 
-<a href="https://github.com/Alice1nRootland?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW-PROJECTS-00bcd4?style=flat-square&labelColor=0b1520" />
+<a href="https://github.com/Alice1nRootland/Portfolio">
+  <img src="https://img.shields.io/badge/VIEW-PROJECTS-00bcd4?style=flat-square&labelColor=0b1520" alt="View Portfolio" />
 </a>
 
 </td>
@@ -142,18 +146,21 @@ Contributing to the cybersecurity community through student activities, technica
 My learning focuses on practical, hands-on cybersecurity.
 
 **Capture The Flag**
+
 - Linux and Windows enumeration
 - Web exploitation challenges
 - Privilege escalation
 - Technical writeups
 
 **Security Assessment**
+
 - Network scanning and service discovery
 - Vulnerability scanning with Nessus
 - CVE identification and analysis
 - Security documentation and remediation
 
 **Development**
+
 - Python scripting
 - Bash automation
 - Security-related experiments
@@ -168,7 +175,7 @@ I practice in authorized environments and intentionally vulnerable labs.
 
 `[ SYSTEM STATUS: ALWAYS LEARNING ]`
 
-<sub>Build responsibly · Test with permission · Share what you learn</sub>
+<sub>Build responsibly · Test with permission · Share what you learn.</sub>
 
 <br><br>
 
